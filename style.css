@@ -153,6 +153,13 @@ h2 {
     text-decoration: none;
   }
 
+.project{
+    padding-left: 30px;
+    padding-bottom: 40px;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
   .AD{
     padding-top: 20px;
   }
